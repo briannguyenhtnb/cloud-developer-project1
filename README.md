@@ -13,4 +13,6 @@ index.html - The Index document for the website.
 
 # Output
 ### CloudFront endpoint URL: http://d4b23nlfrkmay.cloudfront.net/
- 
+
+### Bucket website endpoint URL: http://my-975050026321-bucket.s3-website-us-east-1.amazonaws.com/
+
